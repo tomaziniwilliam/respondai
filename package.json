@@ -1,0 +1,19 @@
+{
+  "name": "respondai",
+  "version": "1.0.0",
+  "description": "Uma plataforma de pergunta e resposta no estilo Yahoo respostas",
+  "license": "ISC",
+  "author": "William Tomazini",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "ejs": "^5.0.1",
+    "express": "^5.2.1",
+    "mysql2": "^3.22.1",
+    "sequelize": "^6.37.8"
+  }
+}
